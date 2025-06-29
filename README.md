@@ -145,7 +145,7 @@
 ### 🎧 Spotify Vibes
 
 <p align="center">
-  <a href="#Spotify Vibes"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=q2vjh8vfz2q9zn45iiulkymdc&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true" /></a>
+  <a href="#Spotify Vibes"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tejsinhsz7jps6ij4enin4vn2m&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true" /></a>
 </p>
 
 ---
