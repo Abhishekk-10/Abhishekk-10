@@ -94,6 +94,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=krdevanshu06&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/> -->
        <a href="#GitHub Stats"><img  alt="abhishekk-10's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/abhishekk-10?cardType=level&preferLogin=false&Background=000000&Text=FFFFFF&Border=000000" /></a>
   <a href="#GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-10&layout=compact&langs_count=5&theme=highcontrast&hide_border=true" height="200em"/></a>
+  </p>
 
 ### 🔥 GitHub Streaks
 
