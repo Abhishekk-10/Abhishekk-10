@@ -34,7 +34,15 @@
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-0A0A0A?style=flat)
-  
+
+- 🎓 **[AlumniConnect](https://github.com/Abhishekk-10/AlumniConnect)**  
+  A dynamic web application that helps alumni and current students connect, collaborate, and grow together through shared experiences and mentorship opportunities.<br/>
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+
 <!--- 🌿 **[Plant Disease Detection System](https://github.com/krdevanshu06/Plant-Disease-Detection-System-for-Sustainable-Agriculture)**  
   AI-powered app using TensorFlow, OpenCV, and Streamlit to detect plant health issues with 97% accuracy.  
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
